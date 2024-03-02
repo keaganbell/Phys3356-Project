@@ -31,6 +31,7 @@
 
 # Vim swap file
 *.swp
+*.swo
 
 # Gradle cache directory
 .gradle/
