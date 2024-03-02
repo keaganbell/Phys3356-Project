@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4382631700625284920
+--- !u!114 &-6007978600157968314
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21,7 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: URP_Jupiter_Lod
-  m_Shader: {fileID: -6465566751694194690, guid: 9613165056b174b1c95b1c3ddf7a2d1a, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 9613165056b174b1c95b1c3ddf7a2d1a,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
